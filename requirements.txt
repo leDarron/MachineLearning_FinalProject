@@ -1,0 +1,6 @@
+pygame==2.1.2
+numpy==1.21.3
+neat-python==0.92
+Shapely==1.7.1
+json5==0.10.5
+torch==1.10.0
