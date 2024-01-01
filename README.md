@@ -1,4 +1,4 @@
-# MachineLearning_FinalProject
+# Machine Learning - Final project
 
 ## Requirements
 - Python >= 3.5
